@@ -11,7 +11,6 @@ function App() {
           <div className="dsmeta-container">
             <SalesCard />
           </div>
-          <div className="dsmeta-card"></div>
         </section>
       </main>
     </>
